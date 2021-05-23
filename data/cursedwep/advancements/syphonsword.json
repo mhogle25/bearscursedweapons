@@ -5,10 +5,11 @@
       },
       "title": "Syphon Sword Hit",
       "description": "Hit a player with the syphon sword",
-      "show_toast": true,
-      "announce_to_chat": true,
-      "hidden": false
+      "show_toast": false,
+      "announce_to_chat": false,
+      "hidden": true
     },
+    "parent": "minecraft:husbandry/tactical_fishing",
     "criteria": {
       "requirement": {
         "trigger": "minecraft:player_hurt_entity",
@@ -21,8 +22,8 @@
                 "equipment": {
                   "mainhand": {
                     "item": "minecraft:netherite_sword",
-                    "tag": "cwep.syphon_sword:1b",
-                    "count": 1
+                    "count": 1,
+                    "nbt": "{cwep.syphon_sword:1b}"
                   }
                 }
               }
