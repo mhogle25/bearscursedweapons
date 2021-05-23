@@ -1,0 +1,1 @@
+give @p netherite_sword{display:{Name:'{"text":"Syphon Sword","color":"dark_red","bold":true,"italic":true}'},Damage:1,cwep.syphon_sword:1b,Enchantments:[{}]} 1

@@ -1,1 +1,0 @@
-tellraw @a {"text": "Syphon Sword loaded", "color": "#a1251b"}
