@@ -23,7 +23,7 @@
                   "mainhand": {
                     "item": "minecraft:netherite_sword",
                     "count": 1,
-                    "nbt": "{cwep.syphon_sword:1b}"
+                    "nbt": "{cwep.syph_sword:1b}"
                   }
                 }
               }
@@ -33,6 +33,6 @@
       }
     },
     "rewards": {
-      "function": "cursedwep:syphonsword/syphonlife"
+      "function": "cursedwep:syphonsword/syph_life"
     }
   }

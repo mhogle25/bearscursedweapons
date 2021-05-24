@@ -1,0 +1,1 @@
+give @s netherite_axe{display:{Name:'{"text":"Executioner\'s Axe","color":"dark_purple","bold":true,"italic":true}'},cwep.exec_axe:1b,Enchantments:[{}]} 1
